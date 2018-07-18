@@ -11,8 +11,8 @@
     ],
     "repositories": [
         {
-            "type":"vcs",
-            "url": "https://github.com/media-code/dompdf"
+            "type":"git",
+            "url": "https://github.com/media-code/dompdf.git"
         }
     ],
     "require": {
