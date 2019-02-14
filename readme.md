@@ -1,3 +1,7 @@
+# Dependency van PersonalMap. Niet verwijderen!
+
+
+
 ## DOMPDF Wrapper for Laravel 5
 
 ### For Laravel 4.x, check the [0.4 branch](https://github.com/barryvdh/laravel-dompdf/tree/0.4)!
